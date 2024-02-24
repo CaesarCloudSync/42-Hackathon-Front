@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+}
+.app-header, .app-footer {
+  background-color: #F0F0F0; /* Ex color (hopefully pink) */
+  padding: 20px;
+}
+.main-content {
+  margin: 20px;
+}
